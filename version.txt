@@ -1,0 +1,3 @@
+version=1.0.1
+url=https://raw.githubusercontent.com/geospraypulverizacion-cloud/geospray-firmware/main/manometro_geospray.ino.bin
+sha256=7083d1ac27ec944e228e624018f5e994690babd803068fe2c13f99ca9d48f2e2
